@@ -1,0 +1,488 @@
+CIK,Ticker,Name,Position,Year,Salary,Stock Awards,Option Awards,Non-Equity Incentive Compensation,Other Compensation,Total
+320193,AAPL,Tim Cook,Chief Executive Officer,2023,3000000,0,0,0,0,63209845
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2023,1000000,0,0,0,0,26935883
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2023,1000000,0,0,0,0,26941705
+320193,AAPL,Deirdre O Brien,"Senior Vice President, Retail",2023,1000000,0,0,0,0,26937010
+320193,AAPL,Jeff Williams,Chief Operating Officer,2023,1000000,0,0,0,0,26961226
+320193,AAPL,Jeff Williams,Chief Operating Officer,2022,1000000,22132015,0,4000000,18337,27150352
+320193,AAPL,Deirdre O Brien,"Senior Vice President, Retail",2022,1000000,22132015,0,4000000,19783,27151798
+320193,AAPL,Tim Cook,Chief Executive Officer,2022,3000000,82994164,0,12000000,1425933,99420097
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2022,1000000,22132015,0,4000000,15208,27147223
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2022,1000000,22132015,0,4000000,19783,27151798
+320193,AAPL,Jeff Williams,Chief Operating Officer,2021,1000000,21959620,0,4000000,17437,26977057
+320193,AAPL,Tim Cook,Chief Executive Officer,2021,3000000,82347835,0,12000000,1386559,98734394
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2021,1000000,21959620,0,4000000,14533,26974153
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2021,1000000,21959620,0,4000000,18883,26978503
+320193,AAPL,Deirdre O Brien,"Senior Vice President, Retail",2021,1000000,21959620,0,4000000,61191,27020811
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2020,1000000,21657687,0,3577000,18583,26253270
+320193,AAPL,Tim Cook,Chief Executive Officer,2020,3000000,0,0,10731000,1038259,14769259
+320193,AAPL,Deirdre O Brien,"Senior Vice President, Retail + People",2020,1000000,21657687,0,3577000,37684,26272371
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2020,1000000,21657687,0,3577000,14310,26248995
+320193,AAPL,Jeff Williams,Chief Operating Officer,2020,1000000,21657687,0,3577000,17137,26251824
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2019,1000000,21633416,0,2557000,19221,25209637
+320193,AAPL,Deirdre O Brien,"Senior Vice President, Retail + People",2019,877500,16469527,0,1795000,17753,19159780
+320193,AAPL,Angela Ahrendts,"Former Senior Vice President, Retail",2019,630361,21633416,0,0,14465,22278242
+320193,AAPL,Tim Cook,Chief Executive Officer,2019,3000000,0,0,7671000,884466,11555466
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2019,1000000,21633416,0,2557000,41384,25231800
+320193,AAPL,Jeff Williams,Chief Operating Officer,2019,1000000,21633416,0,2557000,17503,25207919
+320193,AAPL,Tim Cook,Chief Executive Officer,2018,3000000,0,0,12000000,682219,15682219
+320193,AAPL,Jeff Williams,Chief Operating Officer,2018,1000000,21491888,0,4000000,51818,26543706
+320193,AAPL,Angela Ahrendts,"Senior Vice President, Retail",2018,1000000,21491888,0,4000000,46942,26538830
+320193,AAPL,Kate Adams,"Senior Vice President, General Counsel and Secretary",2018,884615,21509765,0,4000000,306280,26700660
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2018,1000000,21491888,0,4000000,17804,26509692
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2017,1019231,20000113,0,3109000,13271,24141615
+320193,AAPL,Johny Srouji,"Senior Vice President, Hardware Technologies",2017,1019231,20000113,0,3109000,34048,24162392
+320193,AAPL,Dan Riccio,"Senior Vice President, Hardware Engineering",2017,1019231,20000113,0,3109000,17702,24146046
+320193,AAPL,Tim Cook,Chief Executive Officer,2017,3057692,0,0,9327000,440374,12825066
+320193,AAPL,Angela Ahrendts,"Senior Vice President, Retail",2017,1019231,20000113,0,3109000,87728,24216072
+320193,AAPL,Bruce Sewell,"Former Senior Vice President, General Counsel and Secretary",2017,1019231,20000113,0,3109000,17702,24146046
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2016,1000000,20000083,0,1790000,13486,22803569
+320193,AAPL,Angela Ahrendts,"Senior Vice President, Retail",2016,1000000,20000083,0,1790000,112809,22902892
+320193,AAPL,Dan Riccio,"Senior Vice President, Hardware Engineering",2016,1000000,20000083,0,1790000,17461,22807544
+320193,AAPL,Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2016,1000000,20000083,0,1790000,17461,22807544
+320193,AAPL,Eddy Cue,"Senior Vice President, Internet Software and Services",2016,1000000,20000083,0,1790000,17461,22807544
+320193,AAPL,Tim Cook,Chief Executive Officer,2016,3000000,0,0,5370000,377719,8747719
+320193,AAPL,Dan Riccio,"Senior Vice President, Hardware Engineering",2015,1000000,20000105,0,4000000,17521,25017626
+320193,AAPL,Eddy Cue,"Senior Vice President, Internet Software and Services",2015,1000000,20000105,0,4000000,52136,25052241
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2015,1000000,20000105,0,4000000,337872,25337977
+320193,AAPL,Tim Cook,Chief Executive Officer,2015,2000000,0,0,8000000,281327,10281327
+320193,AAPL,Angela Ahrendts,"Senior Vice President, Retail and Online Stores",2015,1000000,20000105,0,4000000,779124,25779229
+320193,AAPL,Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2015,1000000,20000105,0,4000000,17521,25017626
+320193,AAPL,Tim Cook,Chief Executive Officer,2014,1748462,0,0,6700000,774176,9222638
+320193,AAPL,Angela Ahrendts,"Senior Vice President, Retail and Online Stores",2014,411538,70001196,0,1648352,790038,73351124
+320193,AAPL,Jeff Williams,"Senior Vice President, Operations",2014,947596,20000900,0,3437500,17239,24403235
+320193,AAPL,Peter Oppenheimer,"Former Senior Vice President, Chief Financial Officer",2014,947596,0,0,3437500,132624,4517720
+320193,AAPL,Eddy Cue,"Senior Vice President, Internet Software and Services",2014,947596,20000900,0,3437500,59743,24445739
+320193,AAPL,Dan Riccio,"Senior Vice President, Hardware Engineering",2014,947596,20000900,0,3437500,17239,24403235
+320193,AAPL,Luca Maestri,"Senior Vice President, Chief Financial Officer",2014,717211,11335043,0,1608255,342292,14002801
+320193,AAPL,Eddy Cue,"Senior Vice President, Internet Software and Services",2013,866061,0,0,1750000,31044,2647105
+320193,AAPL,Jeffrey Williams,"Senior Vice President, Operations",2013,866061,0,0,1750000,16791,2632852
+320193,AAPL,Peter Oppenheimer,"Senior Vice President, Chief Financial Officer",2013,866061,0,0,1750000,16791,2632852
+320193,AAPL,Dan Riccio,"Senior Vice President, Hardware Engineering",2013,866061,0,0,1750000,16791,2632852
+320193,AAPL,Jeff Williams,"Senior Vice President, Operations",2013,866061,0,0,1750000,16791,2632852
+320193,AAPL,Tim Cook,Chief Executive Officer,2013,1400006,0,0,2800000,52721,4252727
+320193,AAPL,Timothy Cook,Chief Executive Officer,2013,1400006,0,0,2800000,52721,4252727
+320193,AAPL,Eduardo Cue,"Senior Vice President, Internet Software and Services",2013,866061,0,0,1750000,31044,2647105
+320193,AAPL,Daniel Riccio,"Senior Vice President, Hardware Engineering",2013,866061,0,0,1750000,16791,2632852
+320193,AAPL,Jeff Williams,"Senior Vice President, Operations",2012,805400,66269800,0,1600000,16412,68691612
+320193,AAPL,Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2012,805400,66571750,0,1600000,12662,68989812
+320193,AAPL,Eduardo Cue,"Senior Vice President, Internet Software and Services",2012,805400,47975262,0,1600000,39753,50420415
+320193,AAPL,Timothy Cook,Chief Executive Officer,2012,1357718,0,0,2800000,17274,4174992
+320193,AAPL,Robert Mansfield,"Senior Vice President, Technologies",2012,805400,83118825,0,1600000,16412,85540637
+320193,AAPL,Jeffrey Williams,"Senior Vice President, Operations",2012,805400,66269800,0,1600000,16412,68691612
+320193,AAPL,Eddy Cue,"Senior Vice President, Internet Software and Services",2012,805400,47975262,0,1600000,39753,50420415
+320193,AAPL,Peter Oppenheimer,"Senior Vice President, Chief Financial Officer",2012,805400,66169750,0,1600000,16412,68591562
+320193,AAPL,Tim Cook,Chief Executive Officer,2012,1357718,0,0,2800000,17274,4174992
+320193,AAPL,Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2011,700014,0,0,700000,8771,1408785
+320193,AAPL,Timothy D. Cook,Chief Executive Officer,2011,900017,376180000,0,900000,16520,377996537
+320193,AAPL,Peter Oppenheimer,"Senior Vice President, Chief Financial Officer",2011,700014,0,0,700000,16129,1416143
+320193,AAPL,Eduardo H. Cue,"Senior Vice President, Internet Software and Services",2011,607704,51852000,0,444615,48656,52952975
+320193,AAPL,Scott Forstall,"Senior Vice President, iOS Software",2011,700014,0,0,700000,16513,1416527
+320193,AAPL,Ronald B. Johnson,"Senior Vice President, Retail",2011,700014,0,0,700000,16129,1416143
+320193,AAPL,Steven P. Jobs,Former Chief Executive Officer,2011,1,0,0,0,0,1
+320193,AAPL,Eduardo Cue,"Senior Vice President, Internet Software and Services",2011,607704,51852000,0,444615,48656,52952975
+320193,AAPL,Timothy Cook,Chief Executive Officer,2011,900017,376180000,0,900000,16520,377996537
+320193,AAPL,Timothy Cook,Chief Executive Officer,2010,800016,52334250,0,900000,58306,59092572
+320193,AAPL,Peter Oppenheimer,"Senior Vice President, Chief Financial Officer",2010,700014,28377000,0,700000,19652,29796666
+320193,AAPL,Ronald B. Johnson,"Senior Vice President, Retail",2010,700014,28377000,0,700000,18429,29795443
+320193,AAPL,Timothy D. Cook,Chief Operating Officer,2010,800016,52334250,0,900000,58306,59092572
+320193,AAPL,D. Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2010,650012,28377000,0,700000,12597,29739609
+320193,AAPL,Bruce Sewell,"Senior Vice President, General Counsel and Secretary",2010,650012,28377000,0,700000,12597,29739609
+320193,AAPL,Steven P. Jobs,Chief Executive Officer,2010,1,0,0,0,0,1
+320193,AAPL,Scott Forstall,"Senior Vice President, iOS Software",2010,600012,28377000,0,600000,15925,29592937
+320193,AAPL,Peter Oppenheimer,"Senior Vice President, Chief Financial Officer",2009,700398,8850003,0,700000,19319,10269720
+320193,AAPL,Steven P. Jobs,Chief Executive Officer,2009,1,0,0,0,0,1
+320193,AAPL,Robert Mansfield,"Senior Vice President, Mac Hardware Engineering",2009,600396,12239549,537872,600000,18772,13996589
+320193,AAPL,Scott Forstall,"Senior Vice President, iPhone Software Engineering & Platform Experience",2009,600396,12312632,273818,600000,17909,13804755
+320193,AAPL,Timothy D. Cook,Chief Operating Officer,2009,800400,12359723,0,800000,40917,14001040
+320193,AAPL,Steven P. Jobs,Chief Executive Officer,2008,1,0,0,0,0,1
+320193,AAPL,Peter Oppenheimer,Senior Vice President and Chief Financial Officer,2008,600012,4145732,0,600000,23703,5369447
+320193,AAPL,Timothy D. Cook,Chief Operating Officer,2008,718860,5984384,0,700000,20450,7423694
+320193,AAPL,Tony Fadell,"Senior Vice President, iPod Division",2008,500009,6879383,459693,500000,78438,8418023
+320193,AAPL,Robert Mansfield,"Senior Vice President, Mac Hardware Engineering",2008,489432,5379345,810589,408654,22983,7111003
+320193,AAPL,Ronald B. Johnson,"Senior Vice President, Retail",2007,600012,4946610,0,600000,379,6147001
+320193,AAPL,Tony Fadell,"Senior Vice President, iPod Division",2007,500009,3705832,628628,500000,13952,5355171
+320193,AAPL,Timothy D. Cook,Chief Operating Officer,2007,700014,6943426,0,700000,13750,8357190
+320193,AAPL,Peter Oppenheimer,Senior Vice President and Chief Financial Officer,2007,600012,4946610,0,600000,598723,6745345
+320193,AAPL,Steven P. Jobs,Chief Executive Officer,2007,1,0,0,0,0,1
+1328581,BCC,Nate Jorgensen,Chief Executive Officer &amp; Director,2022,936538,2799958,0,2317933,215435,6277015
+1328581,BCC,Jill Twedt,"SVP, General Counsel, and Corporate Secretary",2022,449570,600002,0,556343,82806,1696016
+1328581,BCC,Mike Brown,"EVP, Wood Products",2022,492608,850030,0,851226,106868,2318334
+1328581,BCC,Jeff Strom,"EVP, Building Materials Distribution",2022,470123,850030,0,846222,96747,2272915
+1328581,BCC,Kelly Hibbs,"SVP, Chief Financial Officer, and Treasurer",2022,477031,850030,0,804989,87682,2245739
+1328581,BCC,Mike Brown,"EVP, Wood Products",2021,457469,600028,0,823445,96708,1989701
+1328581,BCC,Jill Twedt,"SVP, General Counsel, and Corporate Secretary",2021,431246,399984,0,533667,76217,1443094
+1328581,BCC,Nate Jorgensen,Chief Executive Officer &amp; Director,2021,859135,2214964,0,2126358,198031,5398488
+1328581,BCC,Jeff Strom,"EVP, Building Materials Distribution",2021,409912,600028,0,700551,58063,1773110
+1328581,BCC,Wayne Rancourt,"Former EVP, Chief Financial Officer, and Treasurer",2021,213962,0,0,5790,0,219752
+1328581,BCC,Kelly Hibbs,"SVP, Chief Financial Officer, and Treasurer",2021,405742,456618,0,604289,62093,1544118
+1328581,BCC,Jill Twedt,"SVP, General Counsel, and Corporate Secretary",2020,412892,299984,0,506310,46036,1266437
+1328581,BCC,Thomas Corrick,Former CEO &amp; Director,2020,242306,490673,0,310148,0,1135225
+1328581,BCC,Nate Jorgensen,Chief Executive Officer &amp; Director,2020,809521,2214994,0,1926238,83217,5033970
+1328581,BCC,Nick Stokes,"EVP, Building Materials Distribution",2020,546315,983368,0,49669,0,2161451
+1328581,BCC,Wayne Rancourt,"EVP, Chief Financial Officer, and Treasurer",2020,565665,1018198,0,182834,0,2348017
+1328581,BCC,Mike Brown,"EVP, Wood Products",2020,439646,500022,0,785932,60837,1797807
+1328581,BCC,Wayne Rancourt,"EVP, Chief Financial Officer, and Treasurer",2019,524388,1023380,0,432096,579401,2823985
+1328581,BCC,Nate Jorgensen,CEO &amp; Director,2019,466846,499980,0,358201,45905,1370932
+1328581,BCC,Thomas Corrick,CEO &amp; Director,2019,896346,1780002,0,923237,144399,3937947
+1328581,BCC,Nate,Jorgensen COO,2019,466846,499980,0,358201,45905,1370932
+1328581,BCC,Nick Stokes,"EVP, Building Materials Distribution",2019,507031,499980,0,478637,78159,1803272
+1328581,BCC,Mike Brown,"EVP, Wood Products",2019,387277,449982,0,302356,49755,1241951
+1328581,BCC,Wayne Rancourt,"EVP, Chief Financial Officer, and Treasurer",2018,499885,499983,0,503884,90327,1599675
+1328581,BCC,Nick Stokes,"EVP, Building Materials Distribution",2018,482885,355403,0,4742,0,1451653
+1328581,BCC,Thomas K. Corrick,Chief Executive Officer,2018,854615,1076815,0,51678,0,3860499
+1328581,BCC,Wayne M. Rancourt,"EVP, Chief Financial Officer, and Treasurer",2018,499885,503884,0,5596,0,1599675
+1328581,BCC,Dan Hutchinson,"EVP, Wood Products",2018,431731,542254,0,31122,0,1583726
+1328581,BCC,Thomas Corrick,CEO &amp; Director,2018,854615,1699958,0,1076815,177433,3860499
+1328581,BCC,John T. Sahlberg,"SVP, Human Resources, General Counsel",2018,460731,377339,0,24292,0,1349807
+1328581,BCC,Thomas Corrick,CEO &amp; Director,2017,819038,1821277,0,1318652,109364,4146917
+1328581,BCC,Thomas K. Corrick,Chief Executive Officer and former Chief Operating Officer,2017,819038,1821277,0,1318652,109364,4146917
+1328581,BCC,Nick Stokes,"Executive Vice President, Building Materials Distribution",2017,462308,587499,0,702708,77323,1951512
+1328581,BCC,Wayne Rancourt,"EVP, Chief Financial Officer, and Treasurer",2017,481962,528746,0,581969,58072,1796658
+1328581,BCC,Wayne M. Rancourt,"Executive Vice President, Chief FinancialOfficer & Treasurer",2017,481962,528746,0,581969,58072,1796658
+1328581,BCC,Dan Hutchinson,"Executive Vice President, Wood Products",2017,416731,587499,0,473406,50530,1568083
+1328581,BCC,John T. Sahlberg,"Senior Vice President, Human Resources, General Counsel & Secretary",2017,444846,470021,0,465531,55651,1478298
+1328581,BCC,Thomas K. Corrick,Chief Executive Officer and former Chief Operating Officer,2016,779615,2278524,0,912150,47417,4121985
+1328581,BCC,Wayne M. Rancourt,"Executive Vice President, Chief FinancialOfficer & Treasurer",2016,466731,661503,0,409556,26999,1640118
+1328581,BCC,Daniel Hutchinson,"Executive Vice President, Wood Products",2016,401731,661503,0,307324,21501,1412763
+1328581,BCC,Dan Hutchinson,"Executive Vice President, Wood Products",2016,401731,661503,0,307324,21501,1412763
+1328581,BCC,John T. Sahlberg,"Senior Vice President, Human Resources, General Counsel & Secretary",2016,431500,587985,0,328156,24989,1388303
+1328581,BCC,Nick Stokes,"Executive Vice President, Building Materials Distribution",2016,442308,661503,0,516256,45220,1709073
+1328581,BCC,Thomas E. Carlile,Chief Executive Officer,2015,190385,0,0,102808,95375,394031
+1328581,BCC,Daniel Hutchinson,"Executive Vice President, Wood Products",2015,357692,366772,0,36216,32225,856032
+1328581,BCC,Thomas K. Corrick,Chief Executive Officer and former Chief Operating Officer,2015,701923,1222475,0,379038,58133,2376221
+1328581,BCC,Nick Stokes,"Executive Vice President, Building Materials Distribution",2015,427308,366772,0,310065,52473,1161651
+1328581,BCC,Dan Hutchinson,"Executive Vice President, Wood Products",2015,357692,366772,0,36216,32225,856032
+1328581,BCC,Wayne M. Rancourt,"Executive Vice President, Chief FinancialOfficer & Treasurer",2015,452308,366772,0,183185,47513,1055718
+1328581,BCC,John T. Sahlberg,"Senior Vice President, Human Resources, General Counsel & Secretary",2015,404615,325974,0,142020,41355,925040
+1328581,BCC,Wayne M. Rancourt,"Executive Vice President, Chief FinancialOfficer & Treasurer",2014,438000,343465,0,424725,46185,1503559
+1328581,BCC,Thomas K. Corrick,Chief Operating Officer,2014,407000,286251,0,459513,42374,1467828
+1328581,BCC,Thomas E. Carlile,Chief Executive Officer,2014,850000,1030516,0,1600000,1888558,5672223
+1328581,BCC,Nick Stokes,"Executive Vice President, Building Materials Distribution",2014,394000,343465,0,359791,42286,1396406
+1328581,BCC,John T. Sahlberg,"Senior Vice President,Human Resources, General Counsel& Secretary",2014,356000,286251,0,374400,38163,1273830
+1328581,BCC,Wayne M. Rancourt,"Senior Vice President, Chief FinancialOfficer & Treasurer",2013,419000,164670,146797,430650,47594,1213902
+1328581,BCC,Thomas E. Carlile,Chief Executive Officer,2013,807000,439085,391482,1594000,153564,3394760
+1328581,BCC,Stanley R. Bell,"President, Building Materials Distribution",2013,443000,120778,107659,263388,79221,1035030
+1328581,BCC,Thomas A. Lovlien,"President, Wood ProductsManufacturing",2013,443000,120778,107659,504063,67784,1254404
+1328581,BCC,John T. Sahlberg,"Senior Vice President,Human Resources, General Counsel& Secretary",2013,323000,109771,97874,336325,37232,911952
+1328581,BCC,Thomas E. Carlile,Chief Executive Officer,2012,741667,0,0,2003500,114532,3131141
+1328581,BCC,Wayne M. Rancourt,"Senior Vice President, Chief FinancialOfficer & Treasurer",2012,360417,0,0,505500,41897,1042022
+1328581,BCC,Thomas A. Lovlien,"President, Wood ProductsManufacturing",2012,428333,0,0,654905,61885,1781806
+1328581,BCC,John T. Sahlberg,"Senior Vice President,Human Resources, General Counsel& Secretary",2012,308333,0,0,388120,34759,878187
+1328581,BCC,Stanley R. Bell,"President, Building Materials Distribution",2012,428333,0,0,616028,60432,1227349
+1328581,BCC,Stanley R. Bell,"President, Building Materials Distribution",2011,420000,0,0,194828,37199,1245551
+1328581,BCC,John T. Sahlberg,"Senior Vice President,Human Resources, General Counsel& Secretary",2011,300000,0,0,105300,41229,589049
+1328581,BCC,Thomas A. Lovlien,"President, Wood ProductsManufacturing",2011,420000,0,0,182070,46156,908947
+1328581,BCC,Thomas E. Carlile,Chief Executive Officer,2011,700000,0,0,577500,88676,1692125
+1328581,BCC,Wayne M. Rancourt,"Senior Vice President, Chief FinancialOfficer & Treasurer",2011,350000,0,0,151725,24734,728046
+931148,EAF,David J. Rintoul,Former Chief Executive Officer and President,2022,393750,0,0,68000,824400,1406150
+931148,EAF,I igo Perez Ortiz,"Senior Vice President, Commercial and CTS",2022,467803,695530,218858,59911,70267,1618095
+931148,EAF,Timothy K. Flanagan,"Chief Financial Officer, VicePresident Finance and Treasurer",2022,430000,521862,208601,54825,24400,1336438
+931148,EAF,Gina K. Gunning,Chief Legal Officer and Corporate Secretary,2022,395000,334767,184344,44200,24400,1060711
+931148,EAF,Marcel Kessler,Chief Executive Officer and President,2022,393414,446112,244961,63750,146531,1407268
+931148,EAF,Jeremy S. Halford,"Executive Vice President, Chief Operating Officer",2022,537000,550600,303195,73576,543763,2137974
+931148,EAF,Quinn J. Coburn,Senior Vice President,2021,421325,436240,246966,249938,25348091,26799310
+931148,EAF,David J. Rintoul,Former Chief Executive Officer and President,2021,755063,1170960,662909,600625,23200,3445257
+931148,EAF,I igo Perez Ortiz,"Senior Vice President, Commercial and CTS",2021,450771,424760,240467,267585,60638,1547803
+931148,EAF,Timothy K. Flanagan,"Chief Financial Officer, VicePresident Finance and Treasurer",2021,39141,0,0,0,2788,41929
+931148,EAF,Jeremy S. Halford,"Executive Vice President, Chief Operating Officer",2021,488728,482160,272963,289172,1069029,2711005
+931148,EAF,Gina K. Gunning,Chief Legal Officer and Corporate Secretary,2021,374275,378840,214471,191425,23200,1256311
+931148,EAF,Jeremy S. Halford,"Executive Vice President, Chief Operating Officer",2020,461250,324360,109824,243337,503468,1746527
+931148,EAF,I igo Perez Ortiz,"Senior Vice President, Commercial and CTS",2020,370269,270300,91520,186123,30937,1028916
+931148,EAF,David J. Rintoul,Former Chief Executive Officer and President,2020,691875,765850,259307,486675,21243,2433525
+931148,EAF,Quinn J. Coburn,"Chief Financial Officer, Vice President Finance and Treasurer",2020,393383,117130,39659,207532,26301,872948
+931148,EAF,Gina K. Gunning,Chief Legal Officer and Corporate Secretary,2020,355366,243270,82368,162480,24193,937312
+931148,EAF,Quinn J. Coburn,"Chief Financial Officer, Vice President Finance and Treasurer",2019,381933,0,0,104202,26146,667144
+931148,EAF,Gina K. Gunning,Chief Legal Officer and Corporate Secretary,2019,344750,267200,107272,81579,26293,948335
+931148,EAF,David J. Rintoul,President and CEO,2019,666667,1002000,0,244350,84891,2361058
+931148,EAF,Jeremy S. Halford,"Senior Vice President, Operations and Development",2019,300000,557000,212191,101812,34206,1356522
+931148,EAF,Brian M. Boutte,"Former Senior Vice President, Commercial",2019,369000,334000,134090,100672,31443,1118823
+931148,EAF,David J. Rintoul,President and CEO,2018,520833,261023,2395853,765625,326676,4457510
+931148,EAF,Quinn J. Coburn,"Chief Financial Officer, Vice President Finance and Treasurer",2018,371550,0,0,296683,17692,758582
+931148,EAF,Jeffrey C. Dutton,Former President and CEO,2018,110000,0,0,0,11137,121137
+931148,EAF,Quinn J. Coburn,"Chief Financial Officer, Vice President Finance and Treasurer",2017,360000,0,0,0,16451,778931
+931148,EAF,Jeffrey C. Dutton,Former President and CEO,2017,425000,0,0,0,44680,469680
+931148,EAF,Jeffrey C. Dutton,Former President and CEO,2016,410000,0,0,0,41574,451574
+931148,EAF,Quinn J. Coburn,"Chief Financial Officer, Vice President Finance and Treasurer",2016,360000,0,0,0,14548,448528
+931148,EAF,Erick R. Asmussen,,2013,290080,472804,124845,0,15117,895036
+931148,EAF,Lindon G. Robertson,,2013,283333,0,0,0,150605,433938
+931148,EAF,John D. Moran,,2013,320000,336396,88305,0,18345,763046
+931148,EAF,Craig S. Shular,,2013,800000,2184840,578550,0,60800,3614630
+931148,EAF,Petrus J. Barnard,,2013,384400,484364,127281,0,15294,878965
+931148,EAF,Joel L. Hawthorne,,2013,300000,379168,99876,22230,17102,812599
+931148,EAF,Craig S. Shular,,2012,800000,1978080,521040,416000,40000,3779166
+931148,EAF,Petrus J. Barnard,,2012,384400,365184,96192,125000,13844,1040344
+931148,EAF,Lindon G. Robertson,,2012,400000,471696,124248,135200,20662,1151806
+931148,EAF,Joel L. Hawthorne,,2012,300000,326193,83667,103350,12000,832049
+931148,EAF,John D. Moran,,2012,320000,304320,80160,91520,15360,811360
+931148,EAF,Craig S. Shular,,2011,762500,2180691,769600,0,81625,3820307
+931148,EAF,John D. Moran,,2011,280250,381533,118400,0,19912,800095
+931148,EAF,Lindon G. Robertson,,2011,182051,1885611,395366,0,8487,776959
+931148,EAF,Joel L. Hawthorne,,2011,280002,243075,111000,0,14888,655667
+931148,EAF,Mark R. Widmar,,2011,91250,500001,0,0,4562,595814
+931148,EAF,Petrus J. Barnard,,2011,384400,311136,142080,0,30997,943999
+931148,EAF,Craig S. Shular,,2010,677680,1113840,567840,870000,86380,3333873
+931148,EAF,Petrus J. Barnard,,2010,384400,377910,189280,190000,54497,1233683
+931148,EAF,John D. Moran,,2010,243000,157131,80444,178200,23940,682715
+931148,EAF,Mark R. Widmar,,2010,353200,350064,179816,262800,37143,1183023
+931148,EAF,Hermanus L. Pretorius,,2010,253050,157131,80444,200000,12733,703358
+931148,EAF,Petrus J. Barnard,,2009,355570,361020,188100,436235,52532,1438327
+931148,EAF,Hermanus L. Pretorius,,2009,218393,152613,80465,0,25620,477091
+931148,EAF,John D. Moran,,2009,216532,152613,80465,354548,15920,820078
+931148,EAF,Craig S. Shular,Chairman,2009,583083,1115880,585200,1049921,94056,3446396
+931148,EAF,Mark R. Widmar,,2009,315795,361020,188100,389652,33290,1287857
+931148,EAF,Hermanus L. Pretorius,"Vice President and President, Engineered Solutions",2008,231323,108436,0,275000,83207,697966
+931148,EAF,Craig S. Shular,"Chairman, Chief Executive Officer & President",2008,619650,699747,584000,900000,85336,2891811
+931148,EAF,Gary R. Whitaker,"Former General Counsel, Vice President and Secretary",2008,144923,125794,0,0,160884,431601
+931148,EAF,Mark R. Widmar,Chief Financial Officer and Vice President,2008,335625,289211,0,350000,26966,1001802
+931148,EAF,Petrus J. Barnard,"Vice President and President, Industrial Materials",2008,378829,240573,0,350000,42584,1011986
+931148,EAF,Craig S. Shular,"Chairman, Chief Executive Officer &amp; President",2007,597575,566266,438000,1250000,104235,2956162
+931148,EAF,Petrus J. Barnard,"Vice President and President, Graphite Electrodes",2007,370563,217794,0,500000,58133,1146490
+931148,EAF,Hermanus L. Pretorius,"President, Advanced Graphite and Carbon",2007,253752,87118,0,250000,190537,781407
+931148,EAF,Gary R. Whitaker,"General Counsel, Vice President and Secretary",2007,287019,173202,0,250000,20351,730572
+931148,EAF,Mark R. Widmar,Chief Financial Officer and Vice President,2007,327708,360678,0,430000,27277,1145663
+931148,EAF,Petrus J. Barnard,"Vice President and President, Graphite Electrodes",2006,358750,163850,0,450000,138877,1111477
+931148,EAF,Hermanus L. Pretorius,"President, Advanced Graphite and Carbon",2006,313370,65540,0,250000,194848,823758
+931148,EAF,Craig S. Shular,"Chairman, Chief Executive Officer &amp; President",2006,533000,426010,0,1100000,428893,2489645
+931148,EAF,Mark R. Widmar,Chief Financial Officer and Vice President,2006,210779,205513,0,300000,65008,856300
+931148,EAF,Gary R. Whitaker,"General Counsel, Vice President and Secretary",2006,190000,79473,0,200000,81692,561165
+1652044,GOOGL,Prabhakar Raghavan,"Senior Vice President, Google",2020,655000,54585860,0,0,9750,55250610
+1652044,GOOGL,Philipp Schindler,"Senior Vice President, Chief Business Officer, Google",2020,655000,65501684,0,0,226816,66383500
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Alphabet and Google, and Director",2020,2015385,0,0,0,5410162,7425547
+1652044,GOOGL,Ruth M. Porat,"Senior Vice President, Chief Financial Officer, Alphabet and Google",2020,655000,50217913,0,0,17770,50890683
+1652044,GOOGL,Kent Walker,"Senior Vice President, Global Affairs and Chief Legal Officer, Google",2020,655000,50217913,0,0,9750,50882663
+1652044,GOOGL,Ruth M. Porat,"Senior Vice President, Chief Financial Officer, Alphabet and Google",2019,650000,0,0,0,14052,664052
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Alphabet and Google, and Director",2019,650000,276612072,0,0,3359480,280621552
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Google",2018,650000,0,0,0,1231066,1881066
+1652044,GOOGL,Ruth M. Porat,"Senior Vice President, Chief Financial Officer, Alphabet and Google",2018,650000,46612647,0,0,29357,47292004
+1652044,GOOGL,Sergey Brin,"President, Alphabet, and Co-Founder",2018,1,0,0,0,0,1
+1652044,GOOGL,Eric E. Schmidt,"Technical Advisor, Former Executive Chairman, Alphabet",2018,1250000,0,0,0,362016,1612016
+1652044,GOOGL,David C. Drummond,"Senior Vice President, Corporate Development, Chief Legal Officer, Alphabet",2018,650000,46612647,0,0,19585,47282232
+1652044,GOOGL,Larry Page,"Chief Executive Officer, Alphabet, and Co-Founder",2018,1,0,0,0,0,1
+1652044,GOOGL,Larry Page,"Chief Executive Officer, Alphabet, Co-Founder",2017,1,0,0,0,0,1
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Google",2017,650000,0,0,0,683557,1333557
+1652044,GOOGL,Ruth M. Porat,"Senior Vice President, Chief Financial Officer,Alphabet and Google",2017,650000,0,0,0,38638,688638
+1652044,GOOGL,David C. Drummond,"Senior Vice President, Corporate Development, Chief Legal Officer, Alphabet",2017,650000,0,0,0,14252,664252
+1652044,GOOGL,Sergey Brin,"President, Alphabet, and Co-Founder",2017,1,0,0,0,0,1
+1652044,GOOGL,Eric E. Schmidt,"Technical Advisor, Former Executive Chairman, Alphabet",2017,1250000,0,0,0,677986,4726592
+1652044,GOOGL,Sergey Brin,"President, Alphabet, and Co-Founder",2016,1,0,0,0,0,1
+1652044,GOOGL,David C. Drummond,"Senior Vice President, Corporate Development, Chief Legal Officer, and Secretary, Alphabet",2016,650000,0,0,0,14387,664387
+1652044,GOOGL,Eric E. Schmidt,"Executive Chairman, Alphabet",2016,1250000,0,0,0,629106,4309791
+1652044,GOOGL,Ruth M. Porat,"Senior Vice President and Chief Financial Officer, Alphabet and Google",2016,650000,38313173,0,0,110956,39074129
+1652044,GOOGL,Larry Page,"CEO, Alphabet, and Co-Founder",2016,1,0,0,0,0,1
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Google",2016,650000,198695790,0,0,372410,199718200
+1652044,GOOGL,Larry Page,"Chief Executive Officer, Alphabet",2015,1,0,0,0,0,1
+1652044,GOOGL,Sergey Brin,"President, Alphabet",2015,1,0,0,0,0,1
+1652044,GOOGL,Ruth M. Porat,Senior Vice President and Chief Financial Officer,2015,395000,5000000,0,0,603932,31051486
+1652044,GOOGL,Eric E. Schmidt,"Executive Chairman, Alphabet",2015,1254808,6000000,0,0,783370,8038178
+1652044,GOOGL,Patrick Pichette,Advisor; Former Senior Vice President and Chief Financial Officer,2015,322501,0,0,0,56294490,56616991
+1652044,GOOGL,Omid,Kordestani Former Senior Vice President and Chief,2015,487500,0,0,0,16476940,16964440
+1652044,GOOGL,David C. Drummond,"Senior Vice President, Corporate Development, Chief Legal Officer, and Secretary, Alphabet",2015,652500,0,0,0,20323,672823
+1652044,GOOGL,Sundar Pichai,"Chief Executive Officer, Google",2015,652500,0,0,0,150460,100632102
+1652044,GOOGL,Larry Page,"Chief Executive Officer, Alphabet",2014,1,0,0,0,0,1
+1652044,GOOGL,David C. Drummond,"Senior Vice President, Corporate Development, Chief Legal Officer, and Secretary, Alphabet",2014,650000,40092200,0,0,16688,44258888
+1652044,GOOGL,Omid,Kordestani Former Senior Vice President and Chief,2014,237500,6500000,0,0,12551,129903052
+1652044,GOOGL,Eric E. Schmidt,"Executive Chairman, Alphabet",2014,1250000,6000000,0,0,996934,108690772
+1652044,GOOGL,Sergey Brin,"President, Alphabet",2014,1,0,0,0,0,1
+1652044,GOOGL,Patrick Pichette,Advisor; Former Senior Vice President and Chief Financial Officer,2014,650000,3000000,0,0,15284,43757484
+1652044,GOOGL,Sergey Brin,"President, Alphabet",2013,1,0,0,0,0,1
+1652044,GOOGL,Larry Page,"Chief Executive Officer, Alphabet",2013,1,0,0,0,0,1
+1652044,GOOGL,Eric E. Schmidt,"Executive Chairman, Alphabet",2013,1250000,6000000,0,0,708196,19323380
+1652044,GOOGL,Patrick Pichette,Advisor; Former Senior Vice President and Chief Financial Officer,2013,650000,3000000,0,0,13159,5153076
+789019,MSFT,Judson B. Althoff,Executive Vice President and Chief Commercial Officer,2023,960000,12848921,0,2243520,152277,16204718
+789019,MSFT,Bradford L. Smith,Vice Chair and President,2023,1000000,14524413,0,2378500,212777,18115690
+789019,MSFT,Christopher D. Young,"Executive Vice President, Business Development, Strategy, and Ventures",2023,850000,7355407,0,1447380,163127,9815914
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2023,1000000,16450701,0,2295250,156946,19902897
+789019,MSFT,Satya Nadella,Chairman and Chief Executive Officer,2023,2500000,39236137,0,6414750,361650,48512537
+789019,MSFT,Christopher D. Young,"Executive Vice President, Business Development, Strategy, and Ventures",2022,850000,7131582,0,2133840,105036,11720458
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2022,1000000,21681666,0,3575500,62415,26319581
+789019,MSFT,Satya Nadella,Chairman and Chief Executive Officer,2022,2500000,42269560,0,10066500,110250,54946310
+789019,MSFT,Judson B. Althoff,Executive Vice President and Chief Commercial Officer,2022,960000,14420730,0,3412560,55708,18848998
+789019,MSFT,Bradford L. Smith,Vice Chair and President,2022,993333,18753465,0,3551664,110277,23408739
+789019,MSFT,Jean Philippe Courtois,"Executive Vice President, President, Global Sales, Marketing and Operations",2021,932167,12141344,0,3670406,65948,16809865
+789019,MSFT,Christopher D. Young,"Executive Vice President, Business Development, Strategy, and Ventures",2021,541875,22594634,0,1788188,70386,28495083
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2021,995833,17864404,0,4543490,62414,23466141
+789019,MSFT,Satya Nadella,Chairman and Chief Executive Officer,2021,2500000,33036030,0,14212500,109750,49858280
+789019,MSFT,Bradford L. Smith,Vice Chair and President,2021,943333,15098855,0,4303958,109750,20455896
+789019,MSFT,Jean Philippe Courtois,"Executive Vice President, President, Global Sales, Marketing and Operations",2020,777000,10475186,0,2591432,105686,13949304
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2020,975000,14792679,0,3734981,123574,19626234
+789019,MSFT,Bradford L. Smith,Vice Chair and President,2020,860000,12402137,0,3294445,111131,16667713
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2020,715000,6983520,0,1762189,114773,9575482
+789019,MSFT,Satya Nadella,Chairman and Chief Executive Officer,2020,2500000,30718608,0,10992000,111180,44321788
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2019,958333,15316653,0,3855040,97608,20227634
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2019,715000,7539668,0,2086456,91525,10432649
+789019,MSFT,Bradford L. Smith,President and Chief Legal Officer,2019,850000,13045437,0,3366148,111412,17372997
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2019,2333333,29668651,0,10796868,111363,42910215
+789019,MSFT,Jean Philippe Courtois,"Executive Vice President, President, Global Sales, Marketing and Operations",2019,798000,11309474,0,2889049,88231,15084754
+789019,MSFT,Bradford L. Smith,President and Chief Legal Officer,2018,800000,9033868,0,3566700,111055,13511623
+789019,MSFT,Jean Philippe Courtois,"Executive Vice President, President, Global Sales, Marketing and Operations",2018,833000,7149549,0,3092513,51187,11126249
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2018,715000,5702554,0,2252236,88225,8758015
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2018,1500000,16807208,0,7425000,111055,25843263
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2018,875000,10232265,0,3718750,98442,14924457
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2017,852917,7015071,0,3624896,89260,11582144
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2017,715000,3907922,0,2168795,89238,6880955
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2017,1450000,11434557,0,7032406,97189,20014152
+789019,MSFT,Jean Philippe Courtois,"Executive Vice President, President, Global Sales, Marketing and Operations",2017,751054,14735464,0,2762884,45214,18294616
+789019,MSFT,Bradford L. Smith,President and Chief Legal Officer,2017,785833,6193370,0,3241543,98989,10319735
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2016,1200000,12013927,0,0,14104,17692031
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2016,866667,9556560,0,0,149523,12956750
+789019,MSFT,Amy E. Hood,Executive Vice President and Chief Financial Officer,2016,731250,7326650,0,0,12730,10374630
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2016,704167,4083212,0,0,20111,6716490
+789019,MSFT,Bradford L. Smith,President and Chief Legal Officer,2016,704167,5915948,0,0,18497,8610612
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2015,1200000,12761263,0,0,13007,18294270
+789019,MSFT,Bradford L. Smith,President and Chief Legal Officer,2015,650000,4833835,0,0,16847,6800682
+789019,MSFT,Amy E. Hood,Chief Financial Officer,2015,675985,6090606,0,0,10372,8754963
+789019,MSFT,Margaret L. Johnson,"Executive Vice President, Business Development",2015,539204,10180626,0,0,18765,14533595
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2015,800000,9184243,0,0,11171,12195414
+789019,MSFT,Satya Nadella,Chief Executive Officer and Director,2014,918917,79777109,0,0,12729,84308755
+789019,MSFT,Amy E. Hood,Chief Financial Officer,2014,603333,8264576,0,0,11399,10463058
+789019,MSFT,Bradford L. Smith,"EVP, General Counsel",2014,641667,14383054,0,0,15082,16964803
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2014,796667,19063869,0,0,10657,22719276
+789019,MSFT,Steven A. Ballmer,Former Chief Executive Officer and Director,2014,441389,36458,0,0,5737,483584
+789019,MSFT,Harry Shum,"EVP, Technology and Research",2014,573939,14548810,0,0,9543,17136686
+789019,MSFT,Kurt D. DelBene,"President, Microsoft Office Division",2013,669167,5406699,0,0,10954,7592445
+789019,MSFT,Peter S. Klein,Former Chief Financial Officer,2013,598333,3542323,0,0,11820,4152476
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer and Director,2013,697500,0,0,0,13718,1261218
+789019,MSFT,Amy E. Hood,Chief Financial Officer,2013,365954,6626019,0,0,11153,7460569
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2013,777500,7457504,0,0,10484,10383613
+789019,MSFT,Satya Nadella,"President, Server and Tools",2013,669167,5406699,0,0,12180,7668952
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer and Director,2012,685000,0,0,0,13128,1318128
+789019,MSFT,Steven J. Sinofsky,"President, Windows and Windows Live Division",2012,658333,6384487,0,0,10912,8583732
+789019,MSFT,Peter S. Klein,Chief Financial Officer,2012,580000,3567806,0,0,11030,5108836
+789019,MSFT,Kurt D. DelBene,"President, Microsoft Office Division",2012,638333,5445594,0,0,10298,7906725
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2012,762500,7511150,0,0,10021,10683671
+789019,MSFT,Kurt D. DelBene,"President, Microsoft",2011,603333,4154922,0,0,10994,6219249
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer; Director,2011,682500,0,0,0,11915,1376915
+789019,MSFT,Office Division,"Steven J. Sinofsky President, Windows and Window Live Division",2011,649167,5288083,0,0,10508,7207758
+789019,MSFT,Steven J. Sinofsky,"President, Windows and Windows Live Division",2011,649167,5288083,0,0,10508,7207758
+789019,MSFT,Peter S. Klein,Chief Financial Officer,2011,525000,2266321,0,0,10366,3521687
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2011,732500,6610104,0,0,9537,9277141
+789019,MSFT,B. Kevin Turner,,2010,645000,1960000,0,0,0,10445000
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer; Director,2010,670000,0,0,0,11121,1351121
+789019,MSFT,Christopher P. Liddell,,2010,347689,1900000,0,0,0,2247689
+789019,MSFT,Peter S. Klein,,2010,437508,555000,0,0,0,3212508
+789019,MSFT,Stephen A. Elop,,2010,645000,1344000,0,0,0,1989000
+789019,MSFT,Robert J. Bach,,2010,645000,1400000,0,0,0,7645000
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer; Director,2009,665833,0,0,0,10794,1276627
+789019,MSFT,Stephen A. Elop,,2009,641667,840008,0,0,0,4841667
+789019,MSFT,Christopher P. Liddell,,2009,561667,595018,0,0,0,3536667
+789019,MSFT,Robert J. Bach,,2009,641667,1120010,0,0,0,6241667
+789019,MSFT,B. Kevin Turner,,2009,641667,952019,0,0,0,5401667
+789019,MSFT,Robert J. Bach,,2008,620833,675000,0,0,0,8284694
+789019,MSFT,Kevin R. Johnson,"President, Platforms &amp; Services Division",2008,620833,5561367,0,0,9713,6791913
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2008,620833,8411234,0,0,9628,10041695
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer; Director,2008,640833,0,0,0,10001,1350834
+789019,MSFT,Christopher P. Liddell,Senior Vice President; Chief Financial Officer,2008,541667,2515430,0,0,10185,3487282
+789019,MSFT,Stephen A. Elop,,2008,279948,275000,0,0,0,4038483
+789019,MSFT,Jeffrey S. Raikes,"President, Microsoft Business Division",2008,620833,6414572,0,0,8308,7643713
+789019,MSFT,Steven A. Ballmer,Chief Executive Officer; Director,2007,620000,0,0,0,9821,1279821
+789019,MSFT,B. Kevin Turner,Chief Operating Officer,2007,595000,6870236,0,0,270514,8450750
+789019,MSFT,Kevin R. Johnson,"President, Platforms &amp; Services Division",2007,600000,4684671,0,0,1141855,7026526
+789019,MSFT,Christopher P. Liddell,Senior Vice President; Chief Financial Officer,2007,520833,1726575,0,0,2065854,4733262
+789019,MSFT,Jeffrey S. Raikes,"President, Microsoft Business Division",2007,600000,4974405,0,0,8162,6182567
+1808805,NAUT,President,Chief Executive Officer and Secretary,2022,500000,0,1256572,0,1200,1757772
+1808805,NAUT,Gwen Weld,Chief People Officer,2022,245539,0,1474391,60667,84762,1865359
+1808805,NAUT,Chief Scientist,,2022,400000,0,879600,0,0,1279600
+1808805,NAUT,Anna Mowry,Chief Financial Officer and Treasurer,2022,364000,0,879600,102375,1200,1347175
+1808805,NAUT,General Counsel,,2021,231096,0,2484767,74344,250,2790457
+1808805,NAUT,President,Chief Executive Officer and Secretary,2021,436731,0,5953337,154583,60684,6605335
+1808805,NAUT,Sujal Patel,"President, Chief Executive Officer and Secretary",2021,436731,0,5953337,154583,60684,6605335
+1808805,NAUT,Chief Scientist,,2021,379808,0,3501960,117742,0,3999510
+1808805,NAUT,Sujal Patel,"President, Chief Executive Officer and Secretary",2020,200000,0,0,50000,1450,251450
+1808805,NAUT,President,Chief Executive Officer and Secretary,2020,200000,0,0,50000,1450,251450
+720005,RJF,Paul C. Reilly,Chair and CEO,2023,750000,24805953,0,0,106903,34912956
+720005,RJF,James E. Bunn,"President, Global Equities and Investment Banking",2023,500000,3899832,0,0,202306,6302235
+720005,RJF,Scott A. Curtis,"President, Private Client Group",2023,500000,6649884,0,0,142364,10392332
+720005,RJF,Paul M. Shoukry,Chief Financial Officer,2023,500000,2799788,0,0,69754,6669600
+720005,RJF,Tashtego S. Elwyn,President and Chief Executive Officer Raymond James &amp; Associates,2023,500000,6524826,0,0,252957,10227888
+720005,RJF,Paul M. Shoukry,Chief Financial Officer,2022,450000,1949871,0,0,26953,5527035
+720005,RJF,Scott A. Curtis,"President, Private Client Group",2022,450000,1199920,0,0,18109,4618145
+720005,RJF,James E. Bunn,"President, Global Equities and Investment Banking",2022,450000,4999857,0,0,119987,9530038
+720005,RJF,Tashtego S. Elwyn,President and Chief Executive Officer Raymond James &amp; Associates,2022,450000,1174856,0,0,170512,4620542
+720005,RJF,Paul C. Reilly,Chair and CEO,2022,687500,8399938,0,0,32764,17626494
+720005,RJF,Paul M. Shoukry,Chief Financial Officer,2021,300000,693455,0,0,75229,3818813
+720005,RJF,James E. Bunn,"President, Global Equities and Investment Banking",2021,300000,1348456,0,0,242365,6590964
+720005,RJF,"John C. Carson, Jr.",President,2021,300000,674993,0,0,0,5500000
+720005,RJF,Bella Loykhter Allaire,Executive VP Technology and Operations,2021,300000,275029,0,0,0,3900000
+720005,RJF,Paul C. Reilly,Chair and CEO,2021,500000,5930786,0,0,125361,13656209
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance",2020,300000,92466,0,0,0,2009100
+720005,RJF,"John C. Carson, Jr.",President,2020,300000,275020,0,0,0,3773500
+720005,RJF,Paul C. Reilly,Chair and CEO,2020,500000,6976835,0,0,272470,12449359
+720005,RJF,Bella Loykhter Allaire,Executive VP Technology and Operations,2020,300000,193712,0,0,0,3123500
+720005,RJF,Paul M. Shoukry,Chief Financial Officer,2020,281250,765615,0,0,57081,2483985
+720005,RJF,James E. Bunn,"President, Global Equities and Investment Banking",2020,300000,1640676,0,0,112806,4828484
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance and Chief Financial Officer",2019,300000,268723,0,0,0,3693570
+720005,RJF,Paul C. Reilly,Chairman and Chief Executive Officer,2019,500000,3524976,0,0,0,13351875
+720005,RJF,Scott A. Curtis,President Private Client Group,2019,300000,218673,0,0,0,3290750
+720005,RJF,Bella Loykhter Allaire,Executive VP Technology and Operations — RJA,2019,300000,243698,0,0,0,3490750
+720005,RJF,James E. Bunn,President Global Equities and Investment Banking — RJA,2019,300000,599963,0,0,0,5040750
+720005,RJF,Paul C. Reilly,Chairman and Chief Executive Officer - RJF,2018,500000,4903694,0,0,219906,11123643
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance and Chief Financial Officer - RJF",2018,295000,841430,0,0,141690,3540628
+720005,RJF,Jeffrey E. Trocin,"Co-President, Global Equities and Investment Banking - RJA",2018,301250,1241447,0,0,193724,4336475
+720005,RJF,Dennis W. Zank,Chief Operating Officer - RJF,2018,330000,1116426,0,0,128121,4024551
+720005,RJF,James E. Bunn,"Co-President, Global Equities and Investment Banking - RJA",2018,281250,1484167,0,0,153176,4743645
+720005,RJF,"John C. Carson, Jr.",President - RJF,2017,300000,884672,0,0,104786,3476974
+720005,RJF,Jeffrey E. Trocin,"Co-President, Global Equities and Investment Banking - RJA",2017,305000,639661,0,0,183789,3828503
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer and Treasurer - RJF",2017,280000,672146,0,0,138932,3091148
+720005,RJF,Paul C. Reilly,Chairman and Chief Executive Officer - RJF,2017,486250,3394366,0,0,187575,9768247
+720005,RJF,Dennis W. Zank,Chief Operating Officer - RJF,2017,330000,909688,0,0,122458,3937220
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer and Treasurer - RJF",2016,280000,556444,0,0,119197,2693195
+720005,RJF,"John C. Carson, Jr.",President - RJF,2016,300000,736484,0,0,103928,3515440
+720005,RJF,Thomas A. James,Executive Chairman - RJF,2016,350000,449984,0,0,133504,3083490
+720005,RJF,Paul C. Reilly,Chief Executive Officer - RJF,2016,445000,2997970,0,0,231809,8249813
+720005,RJF,Jeffrey E. Trocin,"Co-President, Global Equities and Investment Banking - RJA",2016,305000,798994,0,0,178541,2902535
+720005,RJF,Dennis W. Zank,Chief Operating Officer - RJF,2016,330000,786456,0,0,129789,3696257
+720005,RJF,Paul C. Reilly,Chief Executive Officer - RJF,2015,445000,1549964,195192,0,107119,6622305
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer and Treasurer - RJF",2015,278750,249998,195192,0,57256,2361252
+720005,RJF,"John C. Carson, Jr.",President - RJF,2015,300000,412479,195192,0,72452,3130139
+720005,RJF,Dennis W. Zank,Chief OperatingOfficer - RJF,2015,330000,462457,195192,0,75031,3362724
+720005,RJF,Jeffrey E. Trocin,"President, Global Equities and InvestmentBanking - RJA",2015,305000,699961,195192,0,45973,3583632
+720005,RJF,Paul C. Reilly,Chief Executive Officer - RJF,2014,445000,1781975,206564,0,125094,6008669
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer and Treasurer - RJF",2014,270000,219976,206564,0,85979,2282521
+720005,RJF,Jeffrey E. Trocin,"Preisdent, Global Equities and Investment Banking - RJA",2014,303750,424957,206564,0,115699,3651009
+720005,RJF,Chet Helck,Executive VP - RJF,2014,365961,844393,206564,0,77649,3494567
+720005,RJF,John C. Carson Jr.,President - RJF Fixed Income and Capital Markets,2014,300000,474969,0,0,83857,2896347
+720005,RJF,Dennis W. Zank,Chief Operating Officer - RJF,2014,327500,400000,206564,0,93336,3214943
+720005,RJF,"John C. Carson, Jr.",President - RJF,2014,300000,474969,0,0,83857,2896347
+720005,RJF,Chet Helck,Executive VP – RJF CEO of Global Private Client Group – RJF,2013,328750,362462,156750,0,102055,2950017
+720005,RJF,Jeffrey E. Trocin,"President, Global Equities and Investment Banking – RJA",2013,298750,159992,250800,0,138881,2923466
+720005,RJF,John C. Carson Jr.,President - RJF Fixed Income and Capital Markets,2013,300000,169994,0,0,80620,2775645
+720005,RJF,Paul C. Reilly,Chief Executive Officer – RJF,2013,442500,849968,156750,0,132799,4782042
+720005,RJF,Dennis W. Zank,Chief Operating Officer – RJF Chief Executive Officer – RJA,2013,315000,374974,156750,0,108684,2955408
+720005,RJF,"John C. Carson, Jr.",President - RJF,2013,300000,169994,0,0,80620,2775645
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer – RJF",2013,253750,169994,156750,0,89207,2049725
+720005,RJF,Paul C. Reilly,Chief Executive Officer – RJF,2012,432500,799975,371538,0,164707,4518752
+720005,RJF,Dennis W. Zank,Chief Operating Officer – RJF Chief Executive Officer – RJA,2012,296500,399988,371538,0,108051,3101103
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer – RJF",2012,243750,149988,371538,0,93734,2039016
+720005,RJF,John C. Carson Jr.,President - RJF Fixed Income and Capital Markets,2012,150000,3499975,0,0,16090,4846071
+720005,RJF,Chet Helck,Executive VP – RJF CEO of Global Private Client Group – RJF,2012,323750,399988,512500,0,95514,3219290
+720005,RJF,"John C. Carson, Jr.",President – RJF Head of Fixed Income; Chief Executive Officer – MK,2012,150000,3499975,0,0,16090,4846071
+720005,RJF,Paul C. Reilly,Chief Executive Officer – RJF,2011,421750,419999,0,0,169402,3711176
+720005,RJF,Dennis W. Zank,Chief Operating Officer – RJF Chief Executive Officer – RJA,2011,283750,299986,0,0,70359,2654107
+720005,RJF,Thomas A. James,Executive Chairman – RJF,2011,342504,379984,0,0,90802,2513314
+720005,RJF,Chet Helck,Executive VP – RJF CEO of Global Private Client Group – RJF,2011,317500,299986,0,0,77400,2694898
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer – RJF",2011,217250,99974,0,0,55340,1472576
+720005,RJF,Dennis W. Zank,President – RJA,2010,271878,61282,271551,0,99450,2404175
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer",2010,192500,56480,271551,0,81363,1501920
+720005,RJF,Van C. Sayler,Senior Vice President Fixed Income – RJA,2010,221250,460000,271551,0,89967,2902799
+720005,RJF,Thomas A. James,Executive Chairman,2010,332647,284988,0,0,118027,2755678
+720005,RJF,Chet Helck,Chief Executive Officer,2010,308000,100000,271551,0,100628,2480193
+720005,RJF,Paul C. Reilly,Chief Executive Officer,2010,409000,43730,271551,0,156996,3061278
+720005,RJF,Thomas A. James,Chairman and CEO,2009,325542,449993,0,0,50396,2750931
+720005,RJF,Jeffrey P. Julien,"Executive VP, Finance Chief Financial Officer",2009,188000,85272,57441,0,22381,1063094
+720005,RJF,Richard K. Riess,"Executive VP of RJF, CEO and Director of Eagle",2009,270000,315272,146998,0,27311,1739581
+720005,RJF,Van C. Sayler,Senior Vice President Fixed Income — RJA,2009,216000,119105,57394,0,19281,3211780
+720005,RJF,Chet Helck,COO,2009,302000,307130,57441,0,25564,1692135
+720005,RJF,Chet Helck,President and COO,2008,299000,439149,76862,0,53151,2296162
+720005,RJF,Thomas A. James,Chairman and CEO,2008,322156,639970,0,0,93444,3555570
+720005,RJF,Richard K. Riess,"CEO of Eagle, Executive VP of RJF, Managing Director, Asset Management",2008,268000,503145,81683,0,62522,2367350
+720005,RJF,Van C. Sayler,Senior Vice President Fixed Income — RJA,2008,216000,30487,60432,0,48781,1719700
+720005,RJF,Jeffrey P. Julien,"Senior VP, Finance Chief Financial Officer",2008,186000,65399,60449,0,53488,1137836
+720005,RJF,Van C. Sayler,Senior Vice President Fixed Income — RJA,2007,199385,55146,58946,0,109613,898090
+720005,RJF,Chairman and CEO,Jeffrey E. Trocin,2007,259000,519907,77085,0,148582,3114574
+720005,RJF,Capital Markets Group RJA,"Richard K. Riess President and CEO of Eagle Executive VP of RJF Managing Director,",2007,259000,207332,65711,0,133555,2501598
+720005,RJF,Thomas A. James,Chairman and CEO,2007,309000,559994,0,0,175376,4104370
+720005,RJF,Jeffrey P. Julien,"Senior VP, Finance Chief Financial Officer",2007,178000,50480,52230,0,112229,1224939
+720005,RJF,Richard K. Riess,"CEO of Eagle, Executive VP of RJF, Managing Director, Asset Management",2007,259000,207332,65711,0,133555,2501598
+720005,RJF,Asset Management,Chet Helck President and COO,2007,286750,181744,136759,0,118425,2463678
+720005,RJF,Chet Helck,President and COO,2007,286750,181744,136759,0,118425,2463678
